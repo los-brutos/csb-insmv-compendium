@@ -1,7 +1,17 @@
 {
-  "id": "csb-insmv-compendium",
-  "title": "CSB - INS/MV Compendium",
+  "id": "csb-insmv-compendium-compendium",
   "version": "13.0.0",
+  "title": "CSB - INS/MV Compendium",
+  "description": "Implémentation du jeu INS/MV avec Custom System Builder",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "url": "https://github.com/los-brutos/csb-insmv-compendium/",
+  "manifest": "https://raw.githubusercontent.com/los-brutos/csb-insmv-compendium/refs/tags/13.0.0/module.json",
+  "download": "https://github.com/los-brutos/csb-insmv-compendium/releases/download/13.0.0/csb-insmv-compendium.zip",
+  "readme": "https://github.com/los-brutos/csb-insmv-compendium/blob/main/README.md",
+  "bugs": "https://github.com/los-brutos/csb-insmv-compendium/issues",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -33,11 +43,10 @@
   "relationships": {
     "requires": [
       {
-        "id": "csb-insmv",
+        "id": "csb-insmv-compendium",
         "type": "module",
         "compatibility": {}
       }
     ]
-  },
-  "description": ""
+  }
 }
