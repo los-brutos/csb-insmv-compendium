@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'esquiver (1+ Niveau dans le pouvoir] attaques par tour venant de n'importe quel endroit (du moment que le personnage a au moins une chance de s'écarter au dernier moment, même s'il ne la voit pas arriver). </p><p>Coût: 1PP par attaque esquivée au-dessus de 2 (1 par attaque pour les Anges).</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'esquiver (1+ Niveau dans le pouvoir) attaques par tour venant de n'importe quel endroit (du moment que le personnage a au moins une chance de s'écarter au dernier moment, même s'il ne la voit pas arriver). </p><p>Coût: 1PP par attaque esquivée au-dessus de 2 (1 par attaque pour les Anges).</p>",
       "cout": "Variable",
       "portee": "Personnel",
       "numero": "A115",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "B8YZm7yTgMrSR39h",

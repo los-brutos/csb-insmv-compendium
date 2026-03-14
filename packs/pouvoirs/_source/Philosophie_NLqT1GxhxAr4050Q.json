@@ -849,13 +849,12 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773448983388,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "NLqT1GxhxAr4050Q",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!items!NLqT1GxhxAr4050Q"

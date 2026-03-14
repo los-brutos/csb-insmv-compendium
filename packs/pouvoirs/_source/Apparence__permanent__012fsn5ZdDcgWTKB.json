@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur un point d'Apparence supplémentaire, La caractéristique peut même être augmentée au-dessus du maximum autorisé (exemple: 4 pour un familier, 3 pour un soldat de Dieu] et même atteindre 6 si son supérieur direct (Dieu, Prince-Démon ou Archange) l'autorise. Bien que ne possédant qu'un niveau, ce pouvoir peut être acquis plusieurs fois [la caractéristique est majorée d'un point à chaque fois) avec les mêmes restrictions que ci-dessus. Même si l'apparence est modifiée, le personnage sera encore reconnaissable,</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur un point d'Apparence supplémentaire, La caractéristique peut même être augmentée au-dessus du maximum autorisé (exemple: 4 pour un familier, 3 pour un soldat de Dieu) et même atteindre 6 si son supérieur direct (Dieu, Prince-Démon ou Archange) l'autorise. Bien que ne possédant qu'un niveau, ce pouvoir peut être acquis plusieurs fois (la caractéristique est majorée d'un point à chaque fois) avec les mêmes restrictions que ci-dessus. Même si l'apparence est modifiée, le personnage sera encore reconnaissable,</p>",
       "cout": "0",
       "portee": "Personnel",
       "numero": "A354",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "012fsn5ZdDcgWTKB",

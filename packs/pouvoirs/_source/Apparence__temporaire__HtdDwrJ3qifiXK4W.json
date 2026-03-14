@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur (2 + Niveau dans ce pouvoir) points d'Apparence en plus. La valeur maximum de la caractéristique est 6 et tout point au-dessus de cette valeur accorde une colonne de bonus pour tout jet utilisant celte caractéristique (exemple: un Ange possédant une Apparence de 5 utilise ce pouvoir au niveau+1, Il a donc maintenant une apparence de 6 et 2 colonnes de bonus à tous ses jets utilisant l'Apparence]). L'Apparence est majorée pendant un nombre de minutes égal au RU (si le jet est raté, le point de pouvoir est perdu et rien ne se passe), Même si l'apparence est modifiée, le personnage sera encore reconnaissable.</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur (2 + Niveau dans ce pouvoir) points d'Apparence en plus. La valeur maximum de la caractéristique est 6 et tout point au-dessus de cette valeur accorde une colonne de bonus pour tout jet utilisant celte caractéristique (exemple: un Ange possédant une Apparence de 5 utilise ce pouvoir au niveau+1, Il a donc maintenant une apparence de 6 et 2 colonnes de bonus à tous ses jets utilisant l'Apparence). L'Apparence est majorée pendant un nombre de minutes égal au RU (si le jet est raté, le point de pouvoir est perdu et rien ne se passe), Même si l'apparence est modifiée, le personnage sera encore reconnaissable.</p>",
       "cout": "1 par essai",
       "portee": "Personnel",
       "numero": "A244",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "HtdDwrJ3qifiXK4W",

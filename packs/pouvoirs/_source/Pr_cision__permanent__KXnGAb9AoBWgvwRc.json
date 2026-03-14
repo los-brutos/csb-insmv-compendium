@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur un point de Précision supplémentaire. </p><p>La caractéristique peut même être augmentée au-dessus du maximum autorisé (exemple : 4 pour un familier, 3 pour un soldat de Dieu] et même atteindre 6 si son supérieur direct (Dieu. Prince-Démon ou Archange) l'autorise. </p><p>Bien que ne possédant qu'un niveau, ce pouvoir peut être acquis plusieurs fois (la caractéristique est majorée d'un point à chaque fois) avec les même restrictions que ci-dessus.</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur un point de Précision supplémentaire. </p><p>La caractéristique peut même être augmentée au-dessus du maximum autorisé (exemple : 4 pour un familier, 3 pour un soldat de Dieu) et même atteindre 6 si son supérieur direct (Dieu. Prince-Démon ou Archange) l'autorise. </p><p>Bien que ne possédant qu'un niveau, ce pouvoir peut être acquis plusieurs fois (la caractéristique est majorée d'un point à chaque fois) avec les même restrictions que ci-dessus.</p>",
       "cout": "0",
       "portee": "Personnel",
       "numero": "A352",
@@ -849,13 +849,12 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773448983388,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "KXnGAb9AoBWgvwRc",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!items!KXnGAb9AoBWgvwRc"

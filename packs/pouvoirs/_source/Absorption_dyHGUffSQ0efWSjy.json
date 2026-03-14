@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'absorber les points de pouvoir dépensés par un adversaire lorsqu'il est la cible d'une attaque psychique (exemple: le personnage est la cible d'un pouvoir de charme, Il récupère immédiatement 4 points de pouvoir], Ceci n'empêche pas du tout le pouvoir psychique de fonctionner (c'est donc un pouvoir un peu sado-maso). Si les points de pouvoir dépassent alors le nombre de points de pouvoir maximum, ceux en sus doivent être dépensés avant une heure (après, ils sont perdus).</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'absorber les points de pouvoir dépensés par un adversaire lorsqu'il est la cible d'une attaque psychique (exemple: le personnage est la cible d'un pouvoir de charme, Il récupère immédiatement 4 points de pouvoir), Ceci n'empêche pas du tout le pouvoir psychique de fonctionner (c'est donc un pouvoir un peu sado-maso). Si les points de pouvoir dépassent alors le nombre de points de pouvoir maximum, ceux en sus doivent être dépensés avant une heure (après, ils sont perdus).</p>",
       "cout": "0",
       "portee": "Personnel",
       "numero": "A224",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "dyHGUffSQ0efWSjy",

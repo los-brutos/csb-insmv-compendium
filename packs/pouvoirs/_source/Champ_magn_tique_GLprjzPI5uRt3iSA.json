@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de produire une aura de protection de couleur bleue. Elle le protège de toutes les attaques d'origine métallique (balles, épée, hache). La valeur de cette protection est de (1 + Niveau dans ce pouvoir] fois 3 points.</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de produire une aura de protection de couleur bleue. Elle le protège de toutes les attaques d'origine métallique (balles, épée, hache). La valeur de cette protection est de (1 + Niveau dans ce pouvoir) fois 3 points.</p>",
       "cout": "1/sec",
       "portee": "Personnel",
       "numero": "A251",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "GLprjzPI5uRt3iSA",

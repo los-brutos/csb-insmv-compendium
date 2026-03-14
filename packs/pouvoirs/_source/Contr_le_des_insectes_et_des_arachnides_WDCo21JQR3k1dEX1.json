@@ -820,7 +820,7 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de contrôler un insecte ou un arachnide pendant (1 + Niveau dans ce pouvoir] minutes. Les actions de la victime ne devront pas aller à l'encontre de ses convictions profondes (exemple : elle ne se suicidera pas). L'utilisateur pourra communiquer télépathiquement avec la victime et pourra “voir” par ses sens.</p>",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de contrôler un insecte ou un arachnide pendant (1 + Niveau dans ce pouvoir) minutes. Les actions de la victime ne devront pas aller à l'encontre de ses convictions profondes (exemple : elle ne se suicidera pas). L'utilisateur pourra communiquer télépathiquement avec la victime et pourra “voir” par ses sens.</p>",
       "cout": "2/créature",
       "portee": "Personnel",
       "numero": "A364",
@@ -849,7 +849,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773448983095,
+    "modifiedTime": 1773508790641,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "WDCo21JQR3k1dEX1",
