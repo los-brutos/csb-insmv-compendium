@@ -1,5 +1,5 @@
 {
-  "id": "csb-insmv-compendium-compendium",
+  "id": "csb-insmv-compendium",
   "version": "13.0.0",
   "title": "CSB - INS/MV Compendium",
   "description": "Implémentation du jeu INS/MV avec Custom System Builder",
@@ -38,6 +38,17 @@
       },
       "system": "custom-system-builder",
       "flags": {}
+    },
+    {
+      "name": "rolltables",
+      "label": "INS/MV Tables aléatoires",
+      "type": "RollTable",
+      "path": "packs/rolltables",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "relationships": {

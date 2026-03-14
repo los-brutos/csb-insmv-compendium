@@ -1,6 +1,6 @@
 @echo off
 REM 
-REM dépaquetage des compendiums du module CSB INS/MV Compendium
+REM dépaquetage des packs du module CSB INS/MV Compendium
 REM le paquet fvtt doit être  installé https://github.com/foundryvtt/foundryvtt-cli
 REM
 REM /!\ nécessite que l'instance de foundry soit fermée avant de lancer la commande
@@ -16,6 +16,9 @@ call fvtt package workon csb-insmv-compendium --type=Module
 echo.
 echo /// unpack compendium "pouvoirs"
 call fvtt package unpack -c pouvoirs
+echo.
+echo /// unpack compendium "tables aléatoires"
+call fvtt package unpack -c rolltables
 echo.
 echo * ********************************** *
 echo * all compendiums have been unpacked *

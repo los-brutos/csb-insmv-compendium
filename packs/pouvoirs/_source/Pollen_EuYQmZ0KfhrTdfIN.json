@@ -32,6 +32,137 @@
               "visibilityFormula": "",
               "editableFormula": "",
               "escapeHTML": false,
+              "type": "label",
+              "size": "full-size",
+              "icon": "",
+              "value": "",
+              "prefix": "",
+              "suffix": "",
+              "rollMessage": "",
+              "altRollMessage": "",
+              "rollMessageToChat": true,
+              "altRollMessageToChat": true,
+              "style": "label"
+            },
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "editableFormula": "",
+              "escapeHTML": false,
+              "type": "label",
+              "size": "full-size",
+              "icon": "",
+              "value": "",
+              "prefix": "",
+              "suffix": "",
+              "rollMessage": "",
+              "altRollMessage": "",
+              "rollMessageToChat": true,
+              "altRollMessageToChat": true,
+              "style": "label"
+            },
+            {
+              "key": "specifique",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "editableFormula": "",
+              "escapeHTML": false,
+              "type": "checkbox",
+              "size": "full-size",
+              "label": "Spécifique",
+              "defaultChecked": false
+            },
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "editableFormula": "",
+              "escapeHTML": false,
+              "type": "panel",
+              "contents": [
+                {
+                  "key": "numero",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "cssClass": "",
+                  "role": 0,
+                  "editRole": 0,
+                  "permission": 0,
+                  "tooltip": "",
+                  "visibilityFormula": "",
+                  "editableFormula": "",
+                  "escapeHTML": false,
+                  "type": "textField",
+                  "size": "full-size",
+                  "label": "Numéro",
+                  "defaultValue": "",
+                  "charList": "",
+                  "maxLength": null,
+                  "autocomplete": ""
+                }
+              ],
+              "flow": "vertical",
+              "align": "center",
+              "verticalAlign": "top",
+              "collapsible": false,
+              "defaultCollapsed": false,
+              "title": "",
+              "titleStyle": "default"
+            }
+          ],
+          "flow": "grid-4",
+          "align": "left",
+          "verticalAlign": "top",
+          "collapsible": false,
+          "defaultCollapsed": false,
+          "title": "",
+          "titleStyle": "default"
+        },
+        {
+          "key": "",
+          "colSpan": 1,
+          "rowSpan": 1,
+          "cssClass": "",
+          "role": 0,
+          "editRole": 0,
+          "permission": 0,
+          "tooltip": "",
+          "visibilityFormula": "",
+          "editableFormula": "",
+          "escapeHTML": false,
+          "type": "panel",
+          "contents": [
+            {
+              "key": "",
+              "colSpan": 1,
+              "rowSpan": 1,
+              "cssClass": "",
+              "role": 0,
+              "editRole": 0,
+              "permission": 0,
+              "tooltip": "",
+              "visibilityFormula": "",
+              "editableFormula": "",
+              "escapeHTML": false,
               "type": "panel",
               "contents": [
                 {
@@ -59,7 +190,7 @@
                   "style": "label"
                 },
                 {
-                  "key": "type",
+                  "key": "",
                   "colSpan": 1,
                   "rowSpan": 1,
                   "cssClass": "",
@@ -70,25 +201,48 @@
                   "visibilityFormula": "",
                   "editableFormula": "",
                   "escapeHTML": false,
-                  "type": "select",
-                  "size": "full-size",
-                  "label": "",
-                  "defaultValue": "",
-                  "selectedOptionType": "custom",
-                  "options": [
+                  "type": "panel",
+                  "contents": [
                     {
-                      "key": "M",
-                      "value": "Mental"
-                    },
-                    {
-                      "key": "Ph",
-                      "value": "Physique"
-                    },
-                    {
-                      "key": "P",
-                      "value": "Permanent"
+                      "key": "type",
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "cssClass": "",
+                      "role": 0,
+                      "editRole": 0,
+                      "permission": 0,
+                      "tooltip": "",
+                      "visibilityFormula": "",
+                      "editableFormula": "",
+                      "escapeHTML": false,
+                      "type": "select",
+                      "size": "full-size",
+                      "label": "",
+                      "defaultValue": "",
+                      "selectedOptionType": "custom",
+                      "options": [
+                        {
+                          "key": "M",
+                          "value": "Mental"
+                        },
+                        {
+                          "key": "Ph",
+                          "value": "Physique"
+                        },
+                        {
+                          "key": "P",
+                          "value": "Permanent"
+                        }
+                      ]
                     }
-                  ]
+                  ],
+                  "flow": "vertical",
+                  "align": "left",
+                  "verticalAlign": "top",
+                  "collapsible": false,
+                  "defaultCollapsed": false,
+                  "title": "",
+                  "titleStyle": "default"
                 }
               ],
               "flow": "horizontal",
@@ -138,7 +292,7 @@
                   "style": "label"
                 },
                 {
-                  "key": "niveau",
+                  "key": "",
                   "colSpan": 1,
                   "rowSpan": 1,
                   "cssClass": "",
@@ -149,33 +303,56 @@
                   "visibilityFormula": "",
                   "editableFormula": "",
                   "escapeHTML": false,
-                  "type": "select",
-                  "size": "full-size",
-                  "label": "",
-                  "defaultValue": " +0",
-                  "selectedOptionType": "custom",
-                  "options": [
+                  "type": "panel",
+                  "contents": [
                     {
-                      "key": "U",
-                      "value": "Unique"
-                    },
-                    {
-                      "key": " +0",
-                      "value": "+0"
-                    },
-                    {
-                      "key": " +1",
-                      "value": "+1"
-                    },
-                    {
-                      "key": " +2",
-                      "value": "+2"
-                    },
-                    {
-                      "key": " +3",
-                      "value": "+3"
+                      "key": "niveau",
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "cssClass": "",
+                      "role": 0,
+                      "editRole": 0,
+                      "permission": 0,
+                      "tooltip": "",
+                      "visibilityFormula": "",
+                      "editableFormula": "",
+                      "escapeHTML": false,
+                      "type": "select",
+                      "size": "full-size",
+                      "label": "",
+                      "defaultValue": " +0",
+                      "selectedOptionType": "custom",
+                      "options": [
+                        {
+                          "key": "U",
+                          "value": "Unique"
+                        },
+                        {
+                          "key": " +0",
+                          "value": "+0"
+                        },
+                        {
+                          "key": " +1",
+                          "value": "+1"
+                        },
+                        {
+                          "key": " +2",
+                          "value": "+2"
+                        },
+                        {
+                          "key": " +3",
+                          "value": "+3"
+                        }
+                      ]
                     }
-                  ]
+                  ],
+                  "flow": "vertical",
+                  "align": "left",
+                  "verticalAlign": "top",
+                  "collapsible": false,
+                  "defaultCollapsed": false,
+                  "title": "",
+                  "titleStyle": "default"
                 }
               ],
               "flow": "horizontal",
@@ -185,23 +362,6 @@
               "defaultCollapsed": false,
               "title": "",
               "titleStyle": "default"
-            },
-            {
-              "key": "specifique",
-              "colSpan": 1,
-              "rowSpan": 1,
-              "cssClass": "",
-              "role": 0,
-              "editRole": 0,
-              "permission": 0,
-              "tooltip": "",
-              "visibilityFormula": "",
-              "editableFormula": "",
-              "escapeHTML": false,
-              "type": "checkbox",
-              "size": "full-size",
-              "label": "Spécifique",
-              "defaultChecked": false
             },
             {
               "key": "",
@@ -242,7 +402,7 @@
                   "style": "label"
                 },
                 {
-                  "key": "cout",
+                  "key": "",
                   "colSpan": 1,
                   "rowSpan": 1,
                   "cssClass": "",
@@ -253,13 +413,36 @@
                   "visibilityFormula": "",
                   "editableFormula": "",
                   "escapeHTML": false,
-                  "type": "textField",
-                  "size": "full-size",
-                  "label": "",
-                  "defaultValue": "",
-                  "charList": "",
-                  "maxLength": null,
-                  "autocomplete": ""
+                  "type": "panel",
+                  "contents": [
+                    {
+                      "key": "cout",
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "cssClass": "",
+                      "role": 0,
+                      "editRole": 0,
+                      "permission": 0,
+                      "tooltip": "",
+                      "visibilityFormula": "",
+                      "editableFormula": "",
+                      "escapeHTML": false,
+                      "type": "textField",
+                      "size": "m-small",
+                      "label": "",
+                      "defaultValue": "",
+                      "charList": "",
+                      "maxLength": null,
+                      "autocomplete": ""
+                    }
+                  ],
+                  "flow": "vertical",
+                  "align": "center",
+                  "verticalAlign": "top",
+                  "collapsible": false,
+                  "defaultCollapsed": false,
+                  "title": "",
+                  "titleStyle": "default"
                 }
               ],
               "flow": "horizontal",
@@ -272,7 +455,7 @@
             },
             {
               "key": "",
-              "colSpan": 1,
+              "colSpan": 2,
               "rowSpan": 1,
               "cssClass": "",
               "role": 0,
@@ -284,30 +467,6 @@
               "escapeHTML": false,
               "type": "panel",
               "contents": [
-                {
-                  "key": "",
-                  "colSpan": 1,
-                  "rowSpan": 1,
-                  "cssClass": "",
-                  "role": 0,
-                  "editRole": 0,
-                  "permission": 0,
-                  "tooltip": "",
-                  "visibilityFormula": "",
-                  "editableFormula": "",
-                  "escapeHTML": false,
-                  "type": "label",
-                  "size": "full-size",
-                  "icon": "",
-                  "value": "Portée",
-                  "prefix": "",
-                  "suffix": "",
-                  "rollMessage": "",
-                  "altRollMessage": "",
-                  "rollMessageToChat": true,
-                  "altRollMessageToChat": true,
-                  "style": "label"
-                },
                 {
                   "key": "portee",
                   "colSpan": 1,
@@ -322,83 +481,16 @@
                   "escapeHTML": false,
                   "type": "textField",
                   "size": "full-size",
-                  "label": "",
+                  "label": "Portée",
                   "defaultValue": "",
                   "charList": "",
                   "maxLength": null,
                   "autocomplete": ""
                 }
               ],
-              "flow": "horizontal",
+              "flow": "vertical",
               "align": "left",
-              "verticalAlign": "top",
-              "collapsible": false,
-              "defaultCollapsed": false,
-              "title": "",
-              "titleStyle": "default"
-            },
-            {
-              "key": "",
-              "colSpan": 1,
-              "rowSpan": 1,
-              "cssClass": "",
-              "role": 0,
-              "editRole": 0,
-              "permission": 0,
-              "tooltip": "",
-              "visibilityFormula": "",
-              "editableFormula": "",
-              "escapeHTML": false,
-              "type": "panel",
-              "contents": [
-                {
-                  "key": "",
-                  "colSpan": 1,
-                  "rowSpan": 1,
-                  "cssClass": "",
-                  "role": 0,
-                  "editRole": 0,
-                  "permission": 0,
-                  "tooltip": "",
-                  "visibilityFormula": "",
-                  "editableFormula": "",
-                  "escapeHTML": false,
-                  "type": "label",
-                  "size": "full-size",
-                  "icon": "",
-                  "value": "Numéro",
-                  "prefix": "",
-                  "suffix": "",
-                  "rollMessage": "",
-                  "altRollMessage": "",
-                  "rollMessageToChat": true,
-                  "altRollMessageToChat": true,
-                  "style": "label"
-                },
-                {
-                  "key": "numero",
-                  "colSpan": 1,
-                  "rowSpan": 1,
-                  "cssClass": "",
-                  "role": 0,
-                  "editRole": 0,
-                  "permission": 0,
-                  "tooltip": "",
-                  "visibilityFormula": "",
-                  "editableFormula": "",
-                  "escapeHTML": false,
-                  "type": "textField",
-                  "size": "full-size",
-                  "label": "",
-                  "defaultValue": "",
-                  "charList": "",
-                  "maxLength": null,
-                  "autocomplete": ""
-                }
-              ],
-              "flow": "horizontal",
-              "align": "left",
-              "verticalAlign": "top",
+              "verticalAlign": "bottom",
               "collapsible": false,
               "defaultCollapsed": false,
               "title": "",
@@ -453,17 +545,40 @@
                   "visibilityFormula": "",
                   "editableFormula": "",
                   "escapeHTML": false,
-                  "type": "label",
-                  "size": "full-size",
-                  "icon": "",
-                  "value": "Réussite",
-                  "prefix": "",
-                  "suffix": "",
-                  "rollMessage": "",
-                  "altRollMessage": "",
-                  "rollMessageToChat": true,
-                  "altRollMessageToChat": true,
-                  "style": "label"
+                  "type": "panel",
+                  "contents": [
+                    {
+                      "key": "",
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "cssClass": "",
+                      "role": 0,
+                      "editRole": 0,
+                      "permission": 0,
+                      "tooltip": "",
+                      "visibilityFormula": "",
+                      "editableFormula": "",
+                      "escapeHTML": false,
+                      "type": "label",
+                      "size": "full-size",
+                      "icon": "",
+                      "value": "Réussite",
+                      "prefix": "",
+                      "suffix": "",
+                      "rollMessage": "",
+                      "altRollMessage": "",
+                      "rollMessageToChat": true,
+                      "altRollMessageToChat": true,
+                      "style": "label"
+                    }
+                  ],
+                  "flow": "vertical",
+                  "align": "right",
+                  "verticalAlign": "top",
+                  "collapsible": false,
+                  "defaultCollapsed": false,
+                  "title": "",
+                  "titleStyle": "default"
                 },
                 {
                   "key": "reussite",
@@ -515,7 +630,7 @@
                 }
               ],
               "flow": "horizontal",
-              "align": "center",
+              "align": "left",
               "verticalAlign": "top",
               "collapsible": false,
               "defaultCollapsed": false,
@@ -548,17 +663,40 @@
                   "visibilityFormula": "",
                   "editableFormula": "",
                   "escapeHTML": false,
-                  "type": "label",
-                  "size": "full-size",
-                  "icon": "",
-                  "value": "Défense",
-                  "prefix": "",
-                  "suffix": "",
-                  "rollMessage": "",
-                  "altRollMessage": "",
-                  "rollMessageToChat": true,
-                  "altRollMessageToChat": true,
-                  "style": "label"
+                  "type": "panel",
+                  "contents": [
+                    {
+                      "key": "",
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "cssClass": "",
+                      "role": 0,
+                      "editRole": 0,
+                      "permission": 0,
+                      "tooltip": "",
+                      "visibilityFormula": "",
+                      "editableFormula": "",
+                      "escapeHTML": false,
+                      "type": "label",
+                      "size": "full-size",
+                      "icon": "",
+                      "value": "Défense",
+                      "prefix": "",
+                      "suffix": "",
+                      "rollMessage": "",
+                      "altRollMessage": "",
+                      "rollMessageToChat": true,
+                      "altRollMessageToChat": true,
+                      "style": "label"
+                    }
+                  ],
+                  "flow": "vertical",
+                  "align": "right",
+                  "verticalAlign": "top",
+                  "collapsible": false,
+                  "defaultCollapsed": false,
+                  "title": "",
+                  "titleStyle": "default"
                 },
                 {
                   "key": "defense",
@@ -573,7 +711,7 @@
                   "editableFormula": "",
                   "escapeHTML": false,
                   "type": "textField",
-                  "size": "full-size",
+                  "size": "medium",
                   "label": "",
                   "defaultValue": "",
                   "charList": "",
@@ -582,7 +720,7 @@
                 }
               ],
               "flow": "horizontal",
-              "align": "center",
+              "align": "left",
               "verticalAlign": "top",
               "collapsible": false,
               "defaultCollapsed": false,
@@ -669,7 +807,7 @@
     },
     "display": {
       "width": 600,
-      "height": 500,
+      "height": 600,
       "fix_size": false,
       "pp_width": 64,
       "pp_height": 64
@@ -695,7 +833,7 @@
     "unique": false,
     "uniqueId": "EuYQmZ0KfhrTdfIN",
     "template": "nqpv33s4sR3DmkmL",
-    "templateSystemUniqueVersion": 899709694
+    "templateSystemUniqueVersion": 693785269
   },
   "effects": [],
   "folder": "LZZNZXLz7q11zJP7",
@@ -712,12 +850,11 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773272195371,
+    "modifiedTime": 1773448983095,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!items!EuYQmZ0KfhrTdfIN"
