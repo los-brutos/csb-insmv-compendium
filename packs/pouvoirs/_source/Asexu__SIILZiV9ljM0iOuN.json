@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -830,7 +838,7 @@
       "type": "P"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
+    "templateSystemUniqueVersion": 2574011709,
     "uniqueId": "SIILZiV9ljM0iOuN",
     "template": "nqpv33s4sR3DmkmL"
   },
@@ -849,13 +857,12 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773508791085,
-    "modifiedTime": 1773508791085,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "SIILZiV9ljM0iOuN",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!items!SIILZiV9ljM0iOuN"

@@ -1,7 +1,7 @@
 {
   "name": "Feu",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/fire.svg",
   "system": {
     "body": {
       "contents": [
@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -819,23 +827,23 @@
     "hidden": [],
     "modifiers": [],
     "props": {
-      "specifique": true,
-      "description": "<p>Réussite = PE ou PR</p><p>Ce pouvoir accorde à son possesseur la faculté de projeter des flammes. Ce pouvoir ressemble à s'y méprendre à celui possédé par les Démons chrétiens (et par certains Anges islamiques). Ses caractéristiques sont gracieusement résumées ci-dessous.</p><table><thead><tr><th>PP</th><th>Puissance</th><th>Portée</th><th>Notes</th></tr></thead><tbody><tr><td>1</td><td>+5</td><td>10m</td><td>2 cibles proches</td></tr><tr><td>2</td><td>+6</td><td>15m</td><td>3 cibles proches</td></tr><tr><td>3</td><td>+7</td><td>20m</td><td>4 cibles proches</td></tr></tbody></table><p>Quel que soit le chiffre obtenu pour la réussite du pouvoir, une langue de feu est toujours projetée. La Précision ou la Perception ne sont utilisées que pour savoir si la cible visée est réellement touchée (Perception dans le cas d'un tir au jugé et Précision pour les tirs visés, comme une arme à distance).</p>",
+      "specifique": false,
+      "description": "<p>Réussite = PE ou PR</p><p>Ce pouvoir accorde à son possesseur la faculté de projeter des flammes. A la différence de celui possédé par les Anges, ce pouvoir est physique et ne peut donc pas être utilisé aussi rapidement. Ses caractéristiques sont gracieusement résumées ci-dessous.</p><table><thead><tr><th>PP</th><th>Puissance</th><th>Portée</th><th>Notes</th></tr></thead><tbody><tr><td>1</td><td>+5</td><td>10m</td><td>2 cibles proches</td></tr><tr><td>2</td><td>+6</td><td>15m</td><td>3 cibles proches</td></tr><tr><td>3</td><td>+7</td><td>20m</td><td>4 cibles proches</td></tr></tbody></table><p>Quel que soit le chiffre obtenu pour la réussite du pouvoir, une langue de feu est toujours projetée. La Précision ou la Perception ne sont utilisées que pour savoir si la cible visée est réellement touchée (Perception dans le cas d'un tir au jugé et Précision pour les tirs visés, comme une arme à distance).</p>",
       "cout": "1/2/3",
       "portee": "10/15/20m",
-      "numero": "AXXX",
+      "numero": "D121",
       "reussite": "PE",
       "defense": "Esquive",
       "niveau": " +0",
-      "type": "M"
+      "type": "Ph"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
-    "uniqueId": "H0NJ2cG7XvrXJOyH",
+    "templateSystemUniqueVersion": 2574011709,
+    "uniqueId": "PQcIDk14sXaWwDBQ",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "LZZNZXLz7q11zJP7",
+  "folder": "Z8RP86H1s2CFa9ly",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -849,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "H0NJ2cG7XvrXJOyH",

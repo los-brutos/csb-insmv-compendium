@@ -625,6 +625,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -833,7 +841,7 @@
     "unique": false,
     "uniqueId": "EuYQmZ0KfhrTdfIN",
     "template": "nqpv33s4sR3DmkmL",
-    "templateSystemUniqueVersion": 693785269
+    "templateSystemUniqueVersion": 2574011709
   },
   "effects": [],
   "folder": "LZZNZXLz7q11zJP7",
@@ -850,7 +858,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "ownership": {

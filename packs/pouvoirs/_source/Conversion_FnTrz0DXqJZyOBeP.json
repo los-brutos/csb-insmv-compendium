@@ -1,7 +1,7 @@
 {
   "name": "Conversion",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/fire.svg",
   "system": {
     "body": {
       "contents": [
@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -823,19 +831,19 @@
       "description": "<p>Ce pouvoir accorde à son possesseur une protection de (1+ Niveau dans le pouvoir) x2 contre un seul type d'attaque physique au choix (exemple: balles, armes tranchantes, acide, etc.) pendant une durée en secondes égale au nombre de PP dépensés. De plus, l'utilisateur gagne 1 PP par 2 points de dommage évités à l'aide de ce pouvoir, Comme d'habitude, les points de pouvoir absorbés en sus des PP maximum de l'utilisateur sont perdus s'ils ne sont pas utilisés en moins d'une heure.</p>",
       "cout": "1/sec",
       "portee": "Personnel",
-      "numero": "A256",
+      "numero": "D256",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
       "type": "M"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
-    "uniqueId": "FnTrz0DXqJZyOBeP",
+    "templateSystemUniqueVersion": 2574011709,
+    "uniqueId": "R1ygsBOdFofKj1ZJ",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "LZZNZXLz7q11zJP7",
+  "folder": "Z8RP86H1s2CFa9ly",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -849,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "FnTrz0DXqJZyOBeP",

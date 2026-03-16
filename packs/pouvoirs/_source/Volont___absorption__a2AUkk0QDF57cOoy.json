@@ -1,7 +1,7 @@
 {
   "name": "Volonté (absorption)",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/fire.svg",
   "system": {
     "body": {
       "contents": [
@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -823,19 +831,19 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de gagner des points de pouvoir en puisant l'énergie vitale d'un être vivant, Le RU indique le nombre de points récupérés et le nombre de points de Volonté perdus par la victime. Elle ne peut pas posséder moins d'un point de Volonté (exemple : RU: 5, Volonté de la victime: 3, Le gain ne peut être que de 2 points). </p><p>Les points de Volonté perdus reviennent au bout d'une heure {durant tout ce temps, c'est la valeur diminuée qui sera utilisée pour tous les jets utilisant cette caractéristique). </p><p>Si les points de pouvoir dépassent alors le nombre de points de pouvoir maximum, ceux en sus doivent être dépensés avant une heure (après, ils sont perdus). Ce pouvoir ne peut être utilisé qu'une fois toutes les deux heures (toutes les trois heures pour les Démons).</p>",
       "cout": "0",
       "portee": "Contact",
-      "numero": "A141",
+      "numero": "D141",
       "reussite": "VO",
       "defense": "VO",
       "niveau": " +0",
       "type": "M"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
-    "uniqueId": "a2AUkk0QDF57cOoy",
+    "templateSystemUniqueVersion": 2574011709,
+    "uniqueId": "YjlaaWah22TvnOTh",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "LZZNZXLz7q11zJP7",
+  "folder": "Z8RP86H1s2CFa9ly",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -849,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "a2AUkk0QDF57cOoy",

@@ -1,7 +1,7 @@
 {
   "name": "Rebond (à préciser)",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/fire.svg",
   "system": {
     "body": {
       "contents": [
@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -823,19 +831,19 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de protéger de (1+ Niveau dans le pouvoir) fois 5 points contre un seul type d'attaque solide (Au choix. Exemple: balles, armes blanches, flèches) pendant une durée en secondes égale au nombre de PP dépensés, De plus, si l'utilisateur le désire, pour 2 PP, l'attaque sera renvoyée à l'envoyeur avec les mêmes effets (RU identique).</p>",
       "cout": "2/envoi",
       "portee": "Personnel",
-      "numero": "A255",
+      "numero": "D255",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
       "type": "M"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
-    "uniqueId": "epV5zUmUlkvKB8bi",
+    "templateSystemUniqueVersion": 2574011709,
+    "uniqueId": "4YtCpgQUSPTjrMUg",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "LZZNZXLz7q11zJP7",
+  "folder": "Z8RP86H1s2CFa9ly",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -849,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "epV5zUmUlkvKB8bi",

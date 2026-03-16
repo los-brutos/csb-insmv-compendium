@@ -1,7 +1,7 @@
 {
   "name": "Téléportation",
   "type": "equippableItem",
-  "img": "icons/svg/daze.svg",
+  "img": "icons/svg/fire.svg",
   "system": {
     "body": {
       "contents": [
@@ -624,6 +624,14 @@
                     {
                       "key": "AP",
                       "value": "AP"
+                    },
+                    {
+                      "key": "niv.",
+                      "value": "Selon niveau"
+                    },
+                    {
+                      "key": "spécial",
+                      "value": "Spécial"
                     }
                   ]
                 }
@@ -823,19 +831,19 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de s'autotransporter instantanément d'un endroit à un autre, à partir du moment où l'utilisateur sait où il se trouve par rapport à l'endroit à atteindre et qu'il a vu cet endroit au moins une fois. La distance maximale franchissable est de (1+Niveau dans le pouvoir) kilomètres. L'utilisateur peut emporter jusqu'à (20 x VO) kg avec lui.</p><p>Chaque utilisation coûte 5 PP.</p><p>Attention ! Une reformation dans une matière solide entraine la mort.</p>",
       "cout": "5",
       "portee": "(1+Niv.)km",
-      "numero": "A321",
+      "numero": "D321",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
       "type": "M"
     },
     "unique": false,
-    "templateSystemUniqueVersion": 693785269,
-    "uniqueId": "QKhIagQVrDG7fmFX",
+    "templateSystemUniqueVersion": 2574011709,
+    "uniqueId": "7Zbx9mblCOP3nnjH",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "LZZNZXLz7q11zJP7",
+  "folder": "Z8RP86H1s2CFa9ly",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -849,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773508790641,
+    "modifiedTime": 1773705446118,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "QKhIagQVrDG7fmFX",
