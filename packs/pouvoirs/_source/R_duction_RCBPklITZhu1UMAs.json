@@ -1,7 +1,7 @@
 {
   "name": "Réduction",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de réduire sa taille de façon très importante. Bien que toutes les caractéristiques et talents de l'utilisateur restent les mêmes, sa faille est réduite pour une durée en heures égale au nombre de PP dépensés.</p><table><thead><tr><th>Niv.</th><th>Taille</th><th>Malus</th></tr></thead><tbody><tr><td>+0</td><td>Divisée par 2</td><td>-1</td></tr><tr><td>+1</td><td>Divisée par 5</td><td>-2</td></tr><tr><td>+2</td><td>Divisée par 10</td><td>-3</td></tr><tr><td>+3</td><td>Divisée par 100</td><td>-4</td></tr></tbody></table><p>Malus : Modificateur au jet de loucher d'une attaque physique qui lui est destinée.</p>",
       "cout": "1/h",
       "portee": "Personnel",
-      "numero": "D265",
+      "numero": "A265",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "nFkFFaHgUEIP2Zuf",
+    "uniqueId": "RCBPklITZhu1UMAs",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "RCBPklITZhu1UMAs",

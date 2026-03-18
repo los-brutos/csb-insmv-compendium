@@ -1,7 +1,7 @@
 {
   "name": "Armure corporelle",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -828,10 +828,10 @@
     "modifiers": [],
     "props": {
       "specifique": false,
-      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de faire apparaître une couche de matériau accordant un bonus de protection non négligeable. Faire apparaître où disparaitre une protection de ce type prend une seconde et est considéré comme une action physique. Certains matériaux peuvent pérmeltre au personnage de ressembler à une statue (un jet de volonté “Moyen” sera nécessaire pour rester immobile et parfaire le déguisement). La valeur de cette protection et l'apparence qu'elle prend dépend du niveau et du type de personnage :</p><table><thead><tr><th>Niveau</th><th>Protection</th><th>Apparence</th></tr></thead><tbody><tr><td>+0</td><td>2</td><td>Chitine</td></tr><tr><td>+1</td><td>3</td><td>Ecailles</td></tr><tr><td>+2</td><td>4</td><td>Carapace</td></tr><tr><td>+3</td><td>6</td><td>Pierre</td></tr></tbody></table>",
+      "description": "<p>Ce pouvoir accorde à son possesseur la faculté de faire apparaître une couche de matériau accordant un bonus de protection non négligeable. Faire apparaître où disparaitre une protection de ce type prend une seconde et est considéré comme une action physique. Certains matériaux peuvent pérmeltre au personnage de ressembler à une statue (un jet de volonté “Moyen” sera nécessaire pour rester immobile et parfaire le déguisement). La valeur de cette protection et l'apparence qu'elle prend dépend du niveau et du type de personnage :</p><table><thead><tr><th>Niveau</th><th>Protection</th><th>Apparence</th></tr></thead><tbody><tr><td>+0</td><td>2</td><td>Or</td></tr><tr><td>+1</td><td>3</td><td>Argent</td></tr><tr><td>+2</td><td>4</td><td>Cuivre</td></tr><tr><td>+3</td><td>6</td><td>Pierre</td></tr></tbody></table>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D211",
+      "numero": "A211",
       "reussite": "auto",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "pvZVY19kdujPMBel",
+    "uniqueId": "cZE4MecUr3Igruf9",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "cZE4MecUr3Igruf9",

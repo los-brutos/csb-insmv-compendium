@@ -1,7 +1,7 @@
 {
   "name": "Arme de contact mobile (Arme magique)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de posséder une arme magique très puissante. Toutes les armes magiques se trouvent normalement sur une marche intermédiaire et n'apparaissent sur la marche terrestre que lorsque les personnages souhaitent les utiliser et lorsqu'ils dépensent 1 PP (cette action est uniquement volontaire et considérée comme un pouvoir mental). Elles peuvent disparaître de la même façon et pour le même coût. Il existe en fait trois types d'armes que je me propose de définir ci-dessous.</p><p><strong>Arme intelligente</strong> : L'arme contient l'âme d'un individu intégriste qui a choisi d'être incarné dans une arme (pour les Anges) ou qui a été puni (pour les Démons), Elle possède une Volonté de 3 et 3 pouvoirs à déterminer comme s'il s'agissait d'un personnage tout à fait normal (en prenant cependant bien soin de rejeter les dés en cas de pouvoirs illogiques). Elle peut communiquer avec son propriétaire par télépathie et possède 6PP qu'elle récupère à raison d'un toutes les 24 heures, L'arme combat par elle-même avec une caractéristique de 4 et un talent de niveau +2. Elle peut se déplacer à la même vitesse qu'un être humain qui marche, sans toutefois s'éloigner de plus de 50 mètres de son possesseur. L'arme voit sa puissance où sa précision augmenter de 1 point chaque fois qu'elle attaque et ce sans dépenser aucun PP.</p><p>À la mort de son possesseur, l'arme magique disparait.</p>",
       "cout": "1",
       "portee": "Personnel",
-      "numero": "D415",
+      "numero": "A415",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "s8fOdcLUkOWvpmkN",
+    "uniqueId": "0NEWRNSLrn72gzta",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "0NEWRNSLrn72gzta",

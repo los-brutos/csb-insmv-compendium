@@ -1,7 +1,7 @@
 {
   "name": "Charme (attaque)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de charmer une victime. Cette attaque a une portée maximum de 5 mètres, n'affecte qu'une cible et le RU indique le nombre de minutes durant lequel la cible doit suivre aveuglément les ordres de l'attaquant (sauf se suicider ou agir de telle façon qu'il en résulterait une mort certaine). Une attaque de ce type coûte 4 PP.</p>",
       "cout": "4",
       "portee": "5m",
-      "numero": "D131",
+      "numero": "A131",
       "reussite": "AP",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "Y7elsxMscAa0ns7s",
+    "uniqueId": "CqLx4cVojX0mGNpw",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "CqLx4cVojX0mGNpw",

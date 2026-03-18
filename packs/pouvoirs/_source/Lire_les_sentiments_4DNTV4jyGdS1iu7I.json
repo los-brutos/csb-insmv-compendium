@@ -1,7 +1,7 @@
 {
   "name": "Lire les sentiments",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Permet de lire les sentiments d’un être qui se trouve à portée. La victime peut résister au conflit psychique.</p><p>Le Niveau du pouvoir est utilisé comme talent d’attaque.</p>",
       "cout": "1",
       "portee": "20m",
-      "numero": "D324",
+      "numero": "A324",
       "reussite": "VO",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "zPIN6OslNuTs07jh",
+    "uniqueId": "4DNTV4jyGdS1iu7I",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "4DNTV4jyGdS1iu7I",

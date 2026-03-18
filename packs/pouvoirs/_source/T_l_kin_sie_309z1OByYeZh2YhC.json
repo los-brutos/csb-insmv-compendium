@@ -1,7 +1,7 @@
 {
   "name": "Télékinésie",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Réussite avec PE ou PR.</p><p>Ce pouvoir accorde à son possesseur la faculté de projeter un paquet de petits objets (cailloux, par exemple) à grande vitesse et dont les caractéristiques exactes dépendent du nombre de PP dépensés (par attaque). Les objets doivent être distants de moins de (2 + Niveau dans le pouvoir) mètres de l'utilisateur.</p><p>Quel que soit le chiffre obtenu pour la réussite du pouvoir, les objets sont toujours projetés.</p><p>La Précision ou la Perception ne sont utilisées que pour savoir si la cible visée est réellement touchée (Perception dans le cas d'un tir au jugé et Précision pour les tirs visés, comme une arme à distance).</p><table><thead><tr><th>PP</th><th>Puissance</th><th>Portée</th><th>Notes</th></tr></thead><tbody><tr><td>1</td><td>+3</td><td>20</td><td>Attaque 2 cibles proches l'une de l'autre</td></tr><tr><td>2</td><td>+4</td><td>30</td><td>Attaque 3 cibles proches l'une de l'autre</td></tr><tr><td>3</td><td>+5</td><td>40</td><td>Attaque 4 cibles proches l'une de l'autre</td></tr></tbody></table>",
       "cout": "1/2/3",
       "portee": "20/30/40m",
-      "numero": "D125",
+      "numero": "A126",
       "reussite": "PE",
       "defense": "Esquive",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "cEIwCE7yB8FyTkxY",
+    "uniqueId": "309z1OByYeZh2YhC",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "309z1OByYeZh2YhC",

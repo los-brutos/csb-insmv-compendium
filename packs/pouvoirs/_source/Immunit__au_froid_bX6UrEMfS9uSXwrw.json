@@ -1,7 +1,7 @@
 {
   "name": "Immunité au froid",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'être immunisé contre tous les effets du froid et contre la glace (y compris les pouvoirs l'utilisant}. Ses membres ne gèlent pas, il ne ressent aucune paralysie et même aucun ralentissement des réflexes.</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D214",
+      "numero": "A214",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "FFNUN5pOCksdOOxb",
+    "uniqueId": "bX6UrEMfS9uSXwrw",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "bX6UrEMfS9uSXwrw",

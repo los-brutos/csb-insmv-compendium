@@ -1,6 +1,7 @@
 {
   "folder": "ol0rBpMIVA0x5Cgq",
-  "name": "2 - Pouvoirs défensifs",
+  "name": "1 - Pouvoir offensif",
+  "_id": "eF2ZtOkxQgLSr18V",
   "img": "icons/svg/fire.svg",
   "description": "",
   "results": [
@@ -11,10 +12,10 @@
         1,
         1
       ],
-      "name": "21 - Défense permanente",
+      "name": "11 - Attaque corporelle",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.1p26CismNPeWhCCc",
-      "_id": "2dnroze0e5apKQyt",
+      "documentUuid": "RollTable.6y0U98EsGYVCAEKz",
+      "_id": "isB9So5UigHG8Xza",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -27,7 +28,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.2dnroze0e5apKQyt"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.isB9So5UigHG8Xza"
     },
     {
       "type": "document",
@@ -36,10 +37,10 @@
         2,
         2
       ],
-      "name": "22 - Défense mentale",
+      "name": "12 - Attaque à distance",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.FBKTDG5RiF6lMCLx",
-      "_id": "MPo1Qdnl18s18VBy",
+      "documentUuid": "RollTable.J0D6aVS85itEHjTm",
+      "_id": "YltqEIpSoJsYDUpW",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -52,7 +53,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.MPo1Qdnl18s18VBy"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.YltqEIpSoJsYDUpW"
     },
     {
       "type": "document",
@@ -61,10 +62,10 @@
         3,
         3
       ],
-      "name": "23 - Couverture",
+      "name": "13 - Attaque non létale",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.V4jecBXzrNKm1inE",
-      "_id": "9qXTH99m9vmYaQWa",
+      "documentUuid": "RollTable.zwUNvO7ZEQWGCsfS",
+      "_id": "A9uQWhKDzHzDfGKy",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -77,7 +78,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.9qXTH99m9vmYaQWa"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.A9uQWhKDzHzDfGKy"
     },
     {
       "type": "document",
@@ -86,10 +87,10 @@
         4,
         4
       ],
-      "name": "24 - Augmentation temporaire des caractéristiques",
+      "name": "14 - Absorption",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.EutYvnfYAqRoPLrp",
-      "_id": "RNLgglAco0apJsJQ",
+      "documentUuid": "RollTable.VcCbx1G27c29Xh9X",
+      "_id": "FnE23eaBfFXV3gbu",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -102,7 +103,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.RNLgglAco0apJsJQ"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.FnE23eaBfFXV3gbu"
     },
     {
       "type": "document",
@@ -111,10 +112,10 @@
         5,
         5
       ],
-      "name": "25 - Défense temporaire",
+      "name": "15 - Malédiction",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.EBHf3f9mJkLKgCt3",
-      "_id": "6pGA52UJgia6u1ik",
+      "documentUuid": "RollTable.VXMyeORr42kcn4PE",
+      "_id": "JI4krDW8PmfIJPO0",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -127,7 +128,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.6pGA52UJgia6u1ik"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.JI4krDW8PmfIJPO0"
     },
     {
       "type": "document",
@@ -136,10 +137,10 @@
         6,
         6
       ],
-      "name": "26 - Camouflage",
+      "name": "16 - Contact",
       "img": "icons/svg/fire.svg",
-      "documentUuid": "RollTable.nggVQ6uGneN1NFDP",
-      "_id": "uqLosOOOYj4rlmZ8",
+      "documentUuid": "RollTable.waav6MykqBVybyp1",
+      "_id": "0dx2eeJnA3fGycCK",
       "description": "",
       "drawn": false,
       "flags": {},
@@ -152,7 +153,7 @@
         "systemVersion": "5.2.0",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iq9RFKP4ZFGPukgG.uqLosOOOYj4rlmZ8"
+      "_key": "!tables.results!eF2ZtOkxQgLSr18V.0dx2eeJnA3fGycCK"
     }
   ],
   "replacement": true,
@@ -166,15 +167,13 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773705437102,
-    "modifiedTime": 1773705437102,
+    "modifiedTime": 1773875377586,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "formula": "",
-  "_id": "iq9RFKP4ZFGPukgG",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
-  "_key": "!tables!iq9RFKP4ZFGPukgG"
+  "_key": "!tables!eF2ZtOkxQgLSr18V"
 }

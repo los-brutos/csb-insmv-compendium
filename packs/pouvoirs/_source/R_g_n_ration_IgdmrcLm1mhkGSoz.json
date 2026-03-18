@@ -1,7 +1,7 @@
 {
   "name": "Régénération",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de se régénérer et de récupérer des points de Force perdus (à cause de blessures) à raison de (1 + Niveau dans ce pouvoir) points par heure. </p><p>Si le personnage est mort, le pouvoir n'a aucun effet.</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D226",
+      "numero": "A226",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "AXQeStijCeAIsfGR",
+    "uniqueId": "IgdmrcLm1mhkGSoz",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "IgdmrcLm1mhkGSoz",

@@ -1,7 +1,7 @@
 {
   "name": "Immunité au feu",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'être immunisé contre tous les effets du feu et de la chaleur. Il ne subit aucun dommage s'il est touché par un lance-flammes ou s'il reste des heures en plein soleil dans le désert.</p><p>Note: dans un incendie, le personnage n'est pas immunisé contre les gaz toxiques dégagés par la combustion de certains matériaux.</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D213",
+      "numero": "A213",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "6QYmkdhZv4i5KgKk",
+    "uniqueId": "BbgOXdXaxCtdY9MN",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "BbgOXdXaxCtdY9MN",

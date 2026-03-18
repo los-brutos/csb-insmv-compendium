@@ -1,7 +1,7 @@
 {
   "name": "Vitesse",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de se mouvoir (mais pas d'agir) beaucoup plus rapidement qu'à la normale, La vitesse du personnage est alors multipliée par (3 + Pouvoir dans ce niveau). </p><p>Ce pouvoir peut évidemment être cumulé avec celui de vol.</p>",
       "cout": "1/min",
       "portee": "Personnel",
-      "numero": "D334",
+      "numero": "A334",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "lOztTBZSDIjUN0Am",
+    "uniqueId": "hPsu86dWyOkByOzi",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "hPsu86dWyOkByOzi",

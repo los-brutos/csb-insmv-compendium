@@ -1,7 +1,7 @@
 {
   "name": "Message officiel",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de délivrer n'importe quel message, par le moyen de communication qu'il souhaite (courrier, téléphone, fax, télégramme). Le destinataire, s'il est démoniaque (ou angélique), sera assuré qu'il vient bien d'un Démon (ou d'un Ange) et non d'un quelconque farceur et n'a pas été modifié par qui que ce soit. Attention: ce pouvoir ne garantit pas que le message n'ait pas été intercepté par une tierce personne.</p>",
       "cout": "0",
       "portee": "Contact",
-      "numero": "DXXX",
+      "numero": "AXXX",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "neROC3BLznmqmvbq",
+    "uniqueId": "ThU3yZ9uJpYWt4oY",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "ThU3yZ9uJpYWt4oY",

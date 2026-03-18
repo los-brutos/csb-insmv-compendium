@@ -1,7 +1,7 @@
 {
   "name": "Faiblesse (attaque)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de faire baisser, à distance, la Force d'une victime. Affecte un seul individu, le RU donnant le nombre de minutes pendant lesquelles la Force de la victime est divisée par 2 (arrondi au chiffre inférieur). Cette réduction ne réduit pas les points de dommages que la cible peut encaisser, L'attaque coûte 1 PP.</p>",
       "cout": "1",
       "portee": "10m",
-      "numero": "D???",
+      "numero": "A???",
       "reussite": "VO",
       "defense": "FO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "5nUcrZg1CPRcDxN4",
+    "uniqueId": "Mqwc51JZ8DM6hNzb",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "Mqwc51JZ8DM6hNzb",

@@ -1,7 +1,7 @@
 {
   "name": "Forme gazeuse (défense)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de se transformer, pour 4PP, en gaz mobile (même vitesse qu'un être humain) inodore, insipide, mais visible (couleur au choix) pour (1+ Niveau dans ce pouvoir) minutes, Durant cette période il ne peut attaquer physiquement et ne peut pas non plus être attaqué physiquement, mais peut par contre recevoir des attaques énergétiques ou psychiques. Les objets qu'il porte au moment de la transformation sont eux aussi transformés en gaz. </p><p>Attention: si l'utilisateur est assommé ou rendu hors service mentalement, il commence à se répandre dans l'air au bout de (2+ Niveau dans le pouvoir) secondes. À partir de ce moment, il lui faut (1d6 - Niveau dans le pouvoir) heures pour se reconstituer (minimum 1h). </p><p>Attention (bis) : si l'utilisateur se retrouve coincé dans un petit espace aux parois solides au moment de sa reformation, c'est la mort.</p>",
       "cout": "4",
       "portee": "Personnel",
-      "numero": "D263",
+      "numero": "A263",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "OERzywQDujKgIvsl",
+    "uniqueId": "7dfeJb0sUsoB7HZ1",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "7dfeJb0sUsoB7HZ1",

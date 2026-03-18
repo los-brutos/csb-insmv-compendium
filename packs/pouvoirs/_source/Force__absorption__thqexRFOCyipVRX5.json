@@ -1,7 +1,7 @@
 {
   "name": "Force (absorption)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de gagner des points de pouvoir en puisant l'énergie vitale d'un être vivant, Le RU indique le nombre de points récupérés et le nombre de points de Force perdus par la victime. Elle ne peut pas posséder moins d'un point de Force (exemple: RU : 5, Force de la victime : 3, le gain ne peut être que de 2 points).</p><p>Les points de Force perdus reviennent au bout d'une heure (durant tout ce temps, c'est la valeur diminuée qui sera utilisée pour tous les jets utilisant cette caractéristique). Si les points de pouvoir récupérés dépassent le nombre de points de pouvoir maximum, ceux en sus doivent être dépensés avant une heure (après, ils sont perdus). Ce pouvoir ne peut être utilisé qu'une fois toutes les deux heures (toutes les trois heures pour Les Démons).</p>",
       "cout": "0",
       "portee": "Contact",
-      "numero": "D142",
+      "numero": "A142",
       "reussite": "VO",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "1lcIMVf4CT8ggeJi",
+    "uniqueId": "thqexRFOCyipVRX5",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "thqexRFOCyipVRX5",

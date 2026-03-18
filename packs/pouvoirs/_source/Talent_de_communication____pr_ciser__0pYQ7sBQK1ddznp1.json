@@ -1,7 +1,7 @@
 {
   "name": "Talent de communication (à préciser)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir permet à son possesseur de posséder un talent à un niveau de +3.</p><p>Le choix exact du talent est laissé au personnage, mais doit être un talent de “Communication” (voir cette définition dans les règles du jeu). </p><p>Un personnage peut posséder plusieurs fois ce pouvoir (il choisit simplement à chaque fois un talent différent).</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D344",
+      "numero": "A344",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "4TZbLfBvA1pwDWr7",
+    "uniqueId": "0pYQ7sBQK1ddznp1",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "0pYQ7sBQK1ddznp1",

@@ -166,14 +166,13 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773705437102,
-    "modifiedTime": 1773705437102,
+    "modifiedTime": 1773875377586,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "formula": "",
   "_id": "waav6MykqBVybyp1",
   "ownership": {
-    "default": 0,
-    "y5tCExgMFbYMpCHk": 3
+    "default": 0
   },
   "sort": 0,
   "_key": "!tables!waav6MykqBVybyp1"

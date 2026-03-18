@@ -1,7 +1,7 @@
 {
   "name": "Lire les pensées",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de lire les pensées superficielles (ce qu'il pense au moment de la réussite du pouvoir) d'un être vivant se trouvant à moins de 10 m. La victime peut résister, comme durant un conflit psychique à ce pouvoir. Une tentative de lecture coûte 3 PP (que le pouvoir soit réussi ou pas).</p>",
       "cout": "3",
       "portee": "10m",
-      "numero": "D323",
+      "numero": "A323",
       "reussite": "VO",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "c2WwGG7xfjcYMNnw",
+    "uniqueId": "FFQ0zcqhq4ZWbsoW",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "FFQ0zcqhq4ZWbsoW",

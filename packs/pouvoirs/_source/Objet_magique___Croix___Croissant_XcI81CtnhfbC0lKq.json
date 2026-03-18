@@ -1,7 +1,7 @@
 {
   "name": "Objet magique : Croix / Croissant",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur un objet magique qui contient deux pouvoirs magiques différents. Ces pouvoirs devront être tirés au sort sur cette même table (rejouer en cas de résultat illogique). C'est le possesseur de l'objet qui devra dépenser les points de pouvoir nécessaire au fonctionnement des pouvoirs qui y sont contenus. L'objet perd tout pouvoir magique à la mort de son possesseur.</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D421",
+      "numero": "A421",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "hXnW1BV8WWeoO8Vx",
+    "uniqueId": "XcI81CtnhfbC0lKq",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "XcI81CtnhfbC0lKq",

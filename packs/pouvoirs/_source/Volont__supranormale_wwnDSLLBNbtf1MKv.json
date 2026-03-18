@@ -1,7 +1,7 @@
 {
   "name": "Volonté supranormale",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de résister plus efficacement (s'il dépense un point de pouvoir) à une attaque mentale dont il est victime, Son jet de résistance bénéficie alors de (1 + Niveau dans ce pouvoir) colonnes de bonus. Le point de pouvoir doit être dépensé au moment où le maître de jeu indique au personnage qu'il est victime d'une attaque mentale.</p>",
       "cout": "1/déf.",
       "portee": "Personnel",
-      "numero": "D221",
+      "numero": "A221",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "7tKFIkBcGU8Z16ZS",
+    "uniqueId": "wwnDSLLBNbtf1MKv",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "wwnDSLLBNbtf1MKv",

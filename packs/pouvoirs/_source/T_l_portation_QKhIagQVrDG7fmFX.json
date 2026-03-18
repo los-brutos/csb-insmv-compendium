@@ -1,7 +1,7 @@
 {
   "name": "Téléportation",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de s'autotransporter instantanément d'un endroit à un autre, à partir du moment où l'utilisateur sait où il se trouve par rapport à l'endroit à atteindre et qu'il a vu cet endroit au moins une fois. La distance maximale franchissable est de (1+Niveau dans le pouvoir) kilomètres. L'utilisateur peut emporter jusqu'à (20 x VO) kg avec lui.</p><p>Chaque utilisation coûte 5 PP.</p><p>Attention ! Une reformation dans une matière solide entraine la mort.</p>",
       "cout": "5",
       "portee": "(1+Niv.)km",
-      "numero": "D321",
+      "numero": "A321",
       "reussite": "auto",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "7Zbx9mblCOP3nnjH",
+    "uniqueId": "QKhIagQVrDG7fmFX",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "QKhIagQVrDG7fmFX",

@@ -1,7 +1,7 @@
 {
   "name": "Apparence (temporaire)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur (2 + Niveau dans ce pouvoir) points d'Apparence en plus. La valeur maximum de la caractéristique est 6 et tout point au-dessus de cette valeur accorde une colonne de bonus pour tout jet utilisant celte caractéristique (exemple: un Ange possédant une Apparence de 5 utilise ce pouvoir au niveau+1, Il a donc maintenant une apparence de 6 et 2 colonnes de bonus à tous ses jets utilisant l'Apparence). L'Apparence est majorée pendant un nombre de minutes égal au RU (si le jet est raté, le point de pouvoir est perdu et rien ne se passe), Même si l'apparence est modifiée, le personnage sera encore reconnaissable.</p>",
       "cout": "1 par essai",
       "portee": "Personnel",
-      "numero": "D244",
+      "numero": "A244",
       "reussite": "VO",
       "defense": "-",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "gP3uN6JeCvoivEko",
+    "uniqueId": "HtdDwrJ3qifiXK4W",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "HtdDwrJ3qifiXK4W",

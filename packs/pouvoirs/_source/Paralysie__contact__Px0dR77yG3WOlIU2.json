@@ -1,7 +1,7 @@
 {
   "name": "Paralysie (contact)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de paralyser une cible au contact. Cette attaque n'affecte que la cible touchée et le RU donne le nombre de minutes durant lequel la cible est paralysée. Cela ne l'empêche ni de réfléchir, ni de projeter un quelconque pouvoir mental. Elle ne peut se libérer, après cette durée, qu'avec un jet de Force “facile” (un essai pas seconde), Une attaque de ce type (qu'elle soit réussie ou pas) coûte 2 PP.</p>",
       "cout": "1",
       "portee": "Contact",
-      "numero": "D163",
+      "numero": "A163",
       "reussite": "VO",
       "defense": "FO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "He2SxQu3myw9VJvO",
+    "uniqueId": "Px0dR77yG3WOlIU2",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "Px0dR77yG3WOlIU2",

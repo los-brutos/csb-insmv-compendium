@@ -1,7 +1,7 @@
 {
   "name": "Attaque mentale",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'attaquer mentalement et à distance tout être vivant dans un rayon de 20 mêtres autour de l'utilisateur, L'attaque est en fait un conflit psychique standard (avec jet de résistance pour la victime). S'il est réussi, le RU double donne le nombre de PP enlevés à la victime et transformés en points de dommage (l'armure ne protège pas) pour cette même victime, Il est bien évident que ce pouvoir est très peu utile (et même, n'ayons pas peur des mots, inutile) contre des adversaires qui n'ont pas (ou plus) de PP, On peut tenter (+ Niveau dans ce pouvoir) attaque mentale par tour, Chaque attaque mentale coûte 5PP.</p>",
       "cout": "5/att.",
       "portee": "20m",
-      "numero": "DXXX",
+      "numero": "AXXX",
       "reussite": "VO",
       "defense": "VO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "PYkn4hyznlSPWCyF",
+    "uniqueId": "OFFT7t4D9Y1lcpWV",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "OFFT7t4D9Y1lcpWV",

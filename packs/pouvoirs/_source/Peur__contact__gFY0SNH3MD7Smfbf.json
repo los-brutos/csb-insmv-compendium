@@ -1,7 +1,7 @@
 {
   "name": "Peur (contact)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté d'instiller une peur panique dans l'esprit d'un adversaire. </p><p>La victime fuira l'utilisateur pour un nombre de minutes égal au RU, S'il est bloqué et forcé à combattre ou à agir, il subira un malus de 2 colonnes à toutes ses actions (aussi bien mentales que physiques). </p><p>Au lieu de la faire fuir et si le RU est supérieur ou égal à 6, l'utilisateur peut choisir de paralyser la victime pour une seconde. Elle est alors incapable d'agir physiquement et ne peut se défendre que mentalement (si elle est la cible d'un autre pouvoir psychique).</p>",
       "cout": "2/att",
       "portee": "Contact",
-      "numero": "D164",
+      "numero": "A164",
       "reussite": "VO",
       "defense": "FO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "8mdvwGXc1JeBB58e",
+    "uniqueId": "gFY0SNH3MD7Smfbf",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "gFY0SNH3MD7Smfbf",

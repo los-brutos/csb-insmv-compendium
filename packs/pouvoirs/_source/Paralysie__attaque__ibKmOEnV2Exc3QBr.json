@@ -1,7 +1,7 @@
 {
   "name": "Paralysie (attaque)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur la faculté de paralyser une cible à distance. Cette attaque a une portée maximum de 5 mètres, n'affecte qu'une cible et le RU donne le nombre de minutes durant lequel la cible est paralysée. </p><p>Cela ne l'empêche ni de réfléchir, ni de projeter un quelconque pouvoir mental. Elle ne peut se libérer, après cette durée, qu'avec un jet de Force “facile” (un essai par seconde). Une attaque de ce type (qu'elle soit réussie ou pas) coûte 2 PP.</p>",
       "cout": "2",
       "portee": "5m",
-      "numero": "D135",
+      "numero": "A135",
       "reussite": "VO",
       "defense": "FO",
       "niveau": " +0",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "pypazHaCfzFz50kt",
+    "uniqueId": "ibKmOEnV2Exc3QBr",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773448983388,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "ibKmOEnV2Exc3QBr",

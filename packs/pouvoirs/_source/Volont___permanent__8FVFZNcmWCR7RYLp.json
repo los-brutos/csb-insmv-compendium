@@ -1,7 +1,7 @@
 {
   "name": "Volonté (permanent)",
   "type": "equippableItem",
-  "img": "icons/svg/fire.svg",
+  "img": "icons/svg/daze.svg",
   "system": {
     "body": {
       "contents": [
@@ -831,7 +831,7 @@
       "description": "<p>Ce pouvoir accorde à son possesseur un point dé Volonté supplémentaire. </p><p>La caractéristique peut même être augmentée au-dessus du maximum autorisé (exemple: 4 pour un familier, 3 pour un soldat de Dieu) et même atteindre 6 si son supérieur direct (Dieu, Prince-Démon ou Archange) l'autorise. </p><p>Bien que ne possédant qu'un niveau, ce pouvoir peut être acquis plusieurs fois (la caractéristique est majorée d'un point à chaque fois) avec les mêmes restrictions que ci-dessus, Ce pouvoir augmente le nombre de points de pouvoir maximum du personnage de deux (un pour le pouvoir et un pour le point de Volonté en plus).</p>",
       "cout": "0",
       "portee": "Personnel",
-      "numero": "D353",
+      "numero": "A353",
       "reussite": "auto",
       "defense": "-",
       "niveau": "U",
@@ -839,11 +839,11 @@
     },
     "unique": false,
     "templateSystemUniqueVersion": 2574011709,
-    "uniqueId": "3w7YS6uBrt2aNZSO",
+    "uniqueId": "8FVFZNcmWCR7RYLp",
     "template": "nqpv33s4sR3DmkmL"
   },
   "effects": [],
-  "folder": "Z8RP86H1s2CFa9ly",
+  "folder": "LZZNZXLz7q11zJP7",
   "flags": {
     "custom-system-builder": {
       "version": "5.2.0"
@@ -857,7 +857,7 @@
     "systemId": "custom-system-builder",
     "systemVersion": "5.2.0",
     "createdTime": 1773272195371,
-    "modifiedTime": 1773705446118,
+    "modifiedTime": 1773875391898,
     "lastModifiedBy": "y5tCExgMFbYMpCHk"
   },
   "_id": "8FVFZNcmWCR7RYLp",
