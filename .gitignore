@@ -5,3 +5,7 @@ packs/**/CURRENT
 packs/**/LOG
 packs/**/LOCK
 packs/**/MANIFEST-*
+packs/pouvoirs/CURRENT
+packs/pouvoirs/LOCK
+packs/pouvoirs/LOG
+packs/pouvoirs/LOG.old
